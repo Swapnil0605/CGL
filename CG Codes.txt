@@ -2,7 +2,7 @@
 Dashed Line iv) Solid line ;using mouse interface Divide the screen in four
 quadrants with center as (0, 0). The line should work for all the slopes positive as
 well as negative.
-Code:
+Code: c++
 #include <GL/glut.h>
 #include <cmath>
 #include <vector>
